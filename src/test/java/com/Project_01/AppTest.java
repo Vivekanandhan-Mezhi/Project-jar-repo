@@ -18,3 +18,16 @@ public class AppTest
         assertTrue( true );
     }
 }
+
+public class At 
+{
+    /**
+     * Rigorous Test :-)
+     */
+    
+    void shouldAnswerWithTrue()
+    {
+        system.out.print("hello World")
+    }
+}
+
